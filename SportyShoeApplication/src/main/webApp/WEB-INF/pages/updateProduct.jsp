@@ -15,7 +15,7 @@ body  {
 </style>
 <h1 align="center">Update Product</h1>
 <br>
-<center><a href="adminHome"><button style="width: 110px;">Back To Admin Home</button></a></center><br><br>
+<center><a href="adminHome"><button style="width: 110px;">User Home</button></a></center><br><br>
 <form method="post">
 	<table align="center" style="border-spacing: 10px">
 	<tr>

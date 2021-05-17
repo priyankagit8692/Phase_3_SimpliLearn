@@ -71,7 +71,7 @@ body  {
     </div>
 
     <h4 align="center">${message}</h4>
-     <a href="adminHome"><p style="text-align:left"><font size="2">Admin Home</font></p></a>
+     <a href="adminHome"><p style="text-align:left"><font size="2">User Home</font></p></a>
 </div>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
