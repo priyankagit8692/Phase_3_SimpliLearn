@@ -1,7 +1,7 @@
 # Phase_3_SimpliLearn
-Final assessment for Phase 
+Final assessment for Phase 3
 
-This is a Application for Sporty Sho
+This is a Application for Sporty Shoe
 - Here there are two links on Home page : login and register
 - Using Register user can register themselves
 
